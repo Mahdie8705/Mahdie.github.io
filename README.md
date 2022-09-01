@@ -1,6 +1,6 @@
 # Mahdie.github.io
 
-** An Introduction to my selected dataset**
+** An Introduction to my selected dataset **
 
 I selected NYC Taxi data because it is related to transportation planning, and I want to learn more about this gathered dataset. 
 This dataset gives us a great visual track of each taxi driver’s driven route during a specific day. 
@@ -13,7 +13,7 @@ For example, this driver had the most amount of fares, and the most amount of tr
 [The database URL] (https://chriswhong.github.io/nyctaxi/)
 
 
-**An Introduction to my seslected book**
+** An Introduction to my seslected book **
 
 “ggplot2: elegant graphics for data analysis” written by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. 
 ggplot2 is a great and user friendly package in R used for data visualization. 
